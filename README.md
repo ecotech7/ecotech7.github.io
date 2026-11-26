@@ -1,6 +1,4 @@
-# ecotech7.github.io
-My site
-```html
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
